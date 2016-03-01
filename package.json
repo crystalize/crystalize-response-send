@@ -1,0 +1,20 @@
+{
+  "name": "crystalize-response-send",
+  "version": "0.0.1",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crystalize/crystalize-response-send.git"
+  },
+  "keywords": [],
+  "author": "Shawn Dellysse <sdellysse@gmail.com> (http://shawndellysse.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crystalize/crystalize-response-send/issues"
+  },
+  "homepage": "https://github.com/crystalize/crystalize-response-send#readme"
+}
